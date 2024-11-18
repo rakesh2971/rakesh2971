@@ -36,8 +36,7 @@
 ![GFG Stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=telangrlc4h)  
 
 ### 🧠 LeetCode  
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/CszmjkHgZi)  
-
+[![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/<CszmjkHgZi>)](https://leetcode.com/<CszmjkHgZi>/)
 ### 🔑 HackerRank  
 ![HackerRank Stats](https://img.shields.io/badge/HackerRank-Green?style=flat-square&logo=hackerrank&logoColor=white)  
 **Profile**: [HackerRank Profile](https://www.hackerrank.com/telangrc2971)  
