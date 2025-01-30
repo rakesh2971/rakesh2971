@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Rakesh Telang.]  
+# 👋 Hi there! I'm Rakesh Telang.  
 ### 👨‍💻 3rd Year B.Tech AIML Student | AI Enthusiast | Open Source Contributor  
 
 ---
