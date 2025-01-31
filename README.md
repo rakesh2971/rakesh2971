@@ -38,7 +38,8 @@ Here’s your updated GitHub README with the correct LeetCode stats:
 ## 🏆 Coding Platform Stats  
 
 ### 💻 GeeksforGeeks  
-![GFG Stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=telangrlc4h)  
+![GFG Stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=telangrlc4h&theme=dark)
+  
 
 ### 🧠 LeetCode  
 [![LeetCode Stats](https://leetcard.jacoblin.cool/CszmjkHgZi?theme=light&font=Baloo&ext=heatmap)](https://leetcode.com/CszmjkHgZi/)
