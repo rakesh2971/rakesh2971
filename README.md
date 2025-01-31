@@ -1,7 +1,3 @@
-Here’s your updated GitHub README with the correct LeetCode stats:
-
----
-
 # 👋 Hi there! I'm Rakesh Telang  
 ### 👨‍💻 3rd Year B.Tech AIML Student | AI Enthusiast | Open Source Contributor  
 
@@ -100,9 +96,4 @@ Here’s your updated GitHub README with the correct LeetCode stats:
 ---
 
 ## Fun Fact  
-> “AI is like magic, but the wand is code!” 🪄✨  
-
----
-
-This version should now correctly display your **LeetCode stats**! 🚀  
-Let me know if you want any further improvements.
+> “AI is like magic, but the wand is code!” 🪄✨
